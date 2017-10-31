@@ -1420,4 +1420,4 @@ CardJs.isExpiryValid = function(month, year) {
 };
 
 
-exports.module = CardJs
+module.exports = CardJs
